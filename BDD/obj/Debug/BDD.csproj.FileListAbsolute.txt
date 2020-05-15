@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\BDD\BDD\bin\Debug\BDD.exe.config
+C:\Users\PC\source\repos\BDD\BDD\bin\Debug\BDD.exe
+C:\Users\PC\source\repos\BDD\BDD\bin\Debug\BDD.pdb
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.Properties.Resources.resources
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.exe
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.pdb
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.Form2.resources
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.Form3.resources
+C:\Users\PC\source\repos\BDD\BDD\bin\Debug\Database2.accdb
+C:\Users\PC\source\repos\BDD\BDD\obj\Debug\BDD.csprojAssemblyReference.cache
